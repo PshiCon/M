@@ -1,0 +1,157 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  McLib core mod (mclib-2.4.2-1.12.2.jar)
+  TLSkinCapeHookLoader (tlskincape1.12.2-1.4.jar)
+  PlayerAPIPlugin (PlayerAPI_1.12.2_1.0.jar)
+Contact their authors BEFORE contacting forge
+
+// My bad.
+
+Time: 8/30/23 2:00 PM
+Description: Ticking memory connection
+
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Expected ':' at line 1 column 330 path $[1].]
+	at com.google.gson.internal.Streams.parse(Streams.java:60)
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:65)
+	at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492)
+	at net.minecraft.util.JsonUtils.func_188176_a(SourceFile:517)
+	at net.minecraft.util.text.ITextComponent$Serializer.func_150699_a(ITextComponent.java:271)
+	at de.teamlapen.vampirism.core.ModEventHandler.onPlayerLoggedIn(ModEventHandler.java:129)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_501_ModEventHandler_onPlayerLoggedIn_PlayerLoggedInEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.firePlayerLoggedIn(FMLCommonHandler.java:575)
+	at net.minecraft.server.management.PlayerList.initializeConnectionToPlayer(PlayerList.java:219)
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.completeServerSideConnection(NetworkDispatcher.java:255)
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.access$100(NetworkDispatcher.java:72)
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher$1.func_73660_a(NetworkDispatcher.java:205)
+	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:285)
+	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:180)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:790)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:279)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: com.google.gson.stream.MalformedJsonException: Expected ':' at line 1 column 330 path $[1].]
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1559)
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:530)
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:425)
+	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:716)
+	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:739)
+	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:731)
+	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:714)
+	at com.google.gson.internal.Streams.parse(Streams.java:48)
+	... 20 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at com.google.gson.internal.Streams.parse(Streams.java:60)
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:65)
+	at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492)
+	at net.minecraft.util.JsonUtils.func_188176_a(SourceFile:517)
+	at net.minecraft.util.text.ITextComponent$Serializer.func_150699_a(ITextComponent.java:271)
+	at de.teamlapen.vampirism.core.ModEventHandler.onPlayerLoggedIn(ModEventHandler.java:129)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_501_ModEventHandler_onPlayerLoggedIn_PlayerLoggedInEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.fml.common.FMLCommonHandler.firePlayerLoggedIn(FMLCommonHandler.java:575)
+	at net.minecraft.server.management.PlayerList.initializeConnectionToPlayer(PlayerList.java:219)
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.completeServerSideConnection(NetworkDispatcher.java:255)
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.access$100(NetworkDispatcher.java:72)
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher$1.func_73660_a(NetworkDispatcher.java:205)
+	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:285)
+
+-- Ticking connection --
+Details:
+	Connection: net.minecraft.network.NetworkManager@efa2719
+Stacktrace:
+	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:180)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:790)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:279)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:745)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 1048387448 bytes (999 MB) / 2852126720 bytes (2720 MB) up to 3154116608 bytes (3008 MB)
+	JVM Flags: 7 total; -Xmx3000M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
+	IntCache: cache: 0, tcache: 0, allocated: 13, tallocated: 95
+	FML: MCP 9.42 Powered by Forge 14.23.5.2859 Optifine OptiFine_1.12.2_HD_U_G5 38 mods loaded, 37 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State  | ID                         | Version           | Source                                        | Signature                                |
+	|:------ |:-------------------------- |:----------------- |:--------------------------------------------- |:---------------------------------------- |
+	| LCHIJA | minecraft                  | 1.12.2            | minecraft.jar                                 | None                                     |
+	| LCHIJA | mcp                        | 9.42              | minecraft.jar                                 | None                                     |
+	| LCHIJA | FML                        | 8.0.99.99         | forge-1.12.2-14.23.5.2859.jar                 | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | forge                      | 14.23.5.2859      | forge-1.12.2-14.23.5.2859.jar                 | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | PlayerAPI                  | 1.0               | minecraft.jar                                 | None                                     |
+	| LCHIJA | skinlayers3d               | 1.2.0             | 3dSkinLayers-forge-mc1.12.2-1.2.0.jar         | None                                     |
+	| LCHIJA | jei                        | 4.16.1.1001       | jei_1.12.2-4.16.1.1001.jar                    | None                                     |
+	| LCHIJA | appleskin                  | 1.0.14            | AppleSkin-mc1.12-1.0.14.jar                   | None                                     |
+	| LCHIJA | biomesoplenty              | 7.0.1.2445        | BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar | None                                     |
+	| LCHIJA | carryon                    | 1.12.3            | carryon-1.12.2-1.12.7.23.jar                  | None                                     |
+	| LCHIJA | dynamictrees               | 1.12.2-0.9.29     | DynamicTrees-1.12.2-0.9.29.jar                | None                                     |
+	| LCHIJA | falling_tree               | 2.4.0             | FallingTree-1.12.2-2.4.0.jar                  | None                                     |
+	| LCHIJA | fpsreducer                 | mc1.12.2-1.20     | FpsReducer-mc1.12.2-1.20.jar                  | None                                     |
+	| LCHIJA | cfm                        | 6.3.0             | furniture-6.3.2-1.12.2.jar                    | None                                     |
+	| LCHIJA | gravestone                 | 1.10.3            | gravestone-1.10.3.jar                         | None                                     |
+	| LCHIJA | ichunutil                  | 7.2.2             | iChunUtil-1.12.2-7.2.2.jar                    | 4db5c2bd1b556f252a5b8b54b256d381b2a0a6b8 |
+	| LCHIJA | hats                       | 7.1.1             | Hats-1.12.2-7.1.1.jar                         | 4db5c2bd1b556f252a5b8b54b256d381b2a0a6b8 |
+	| LCHIJA | ironchest                  | 1.12.2-7.0.67.844 | ironchest_1.12.2_7.0.72.847.jar               | None                                     |
+	| LCHIJA | journeymap                 | 1.12.2-5.7.1      | journeymap-1.12.2-5.7.1.jar                   | None                                     |
+	| LCHIJA | lucky                      | 7.6.0             | Lucky-Block-Mod-1.12.2.zip                    | None                                     |
+	| LCHIJA | mclib                      | 2.4.2             | mclib-2.4.2-1.12.2.jar                        | None                                     |
+	| LCHIJA | mcwdoors                   | 1.3               | mcw-doors-1.0.3-mc1.12.2.jar                  | None                                     |
+	| LCHIJA | metamorph                  | 1.3.1             | metamorph-1.3.1-1.12.2.jar                    | None                                     |
+	| LCHIJA | mutantbeasts               | 1.12.2-1.0.2      | MutantBeasts-1.12.2-1.0.2.jar                 | None                                     |
+	| LCHIJA | projecte                   | 1.12.2-PE1.4.1    | ProjectE-1.12.2-PE1.4.1.jar                   | None                                     |
+	| LCHIJA | quickteleports             | 1.1.1             | quickteleports-1.12.2-1.1.1.jar               | None                                     |
+	| LCHIJA | scp                        | 2.4.2             | SCP+Lockdown-1.12.2-2.4.2-release.jar         | None                                     |
+	| LCHIJA | smartmoving                | 16.4-RC3          | SmartMoving-1.12.2-16.4-RC3.jar               | None                                     |
+	| LCHIJA | smartrender                | 2.3-RC2           | SmartRender-1.12.2-2.3-RC2.jar                | None                                     |
+	| LCHIJA | tlauncher_custom_cape_skin | 1.4               | tlskincape1.12.2-1.4.jar                      | None                                     |
+	| LCHIJA | torohealthmod              | 1.12.2-11         | torohealth-1.12.2-11.jar                      | None                                     |
+	| LCHIJA | travelersbackpack          | 1.0.35            | TravelersBackpack-1.12.2-1.0.35.jar           | None                                     |
+	| LCHIJA | twilightforest             | 3.11.1021         | twilightforest-1.12.2-3.11.1021-universal.jar | None                                     |
+	| LCHIJA | vampirism                  | 1.6.2             | Vampirism-1.12.2-1.6.2.jar                    | None                                     |
+	| LCHIJA | teamlapen-lib              | 1.6.2             | Vampirism-1.12.2-1.6.2.jar                    | None                                     |
+	| LCHIJA | waystones                  | 4.1.0             | Waystones_1.12.2-4.1.0.jar                    | None                                     |
+	| LCHIJA | betteranimalsplus          | 9.0.1             | betteranimalsplus-1.12.2-9.0.1.jar            | None                                     |
+	| UD     | mclib_core                 | 2.4.2             | minecraft.jar                                 | None                                     |
+
+	Loaded coremods (and transformers): 
+McLib core mod (mclib-2.4.2-1.12.2.jar)
+  mchorse.mclib.core.McLibCMClassTransformer
+TLSkinCapeHookLoader (tlskincape1.12.2-1.4.jar)
+  gloomyfolken.hooklib.minecraft.PrimaryClassTransformer
+PlayerAPIPlugin (PlayerAPI_1.12.2_1.0.jar)
+  api.player.forge.PlayerAPITransformer
+	GL info: ~~ERROR~~ RuntimeException: No OpenGL context found in the current thread.
+	Profiler Position: N/A (disabled)
+	Player Count: 1 / 8; [EntityPlayerMP['PSHICON'/1646, l='Новый мир', x=569.50, y=72.00, z=593.50]]
+	Type: Integrated Server (map_client.txt)
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	OptiFine Version: OptiFine_1.12.2_HD_U_G5
+	OptiFine Build: 20210124-142939
+	Render Distance Chunks: 8
+	Mipmaps: 4
+	Anisotropic Filtering: 1
+	Antialiasing: 0
+	Multitexture: false
+	Shaders: SEUS-Renewed-v1.0.1.zip
+	OpenGlVersion: 4.6.0 NVIDIA 536.67
+	OpenGlRenderer: NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2
+	OpenGlVendor: NVIDIA Corporation
+	CpuCount: 4

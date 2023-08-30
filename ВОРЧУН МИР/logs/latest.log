@@ -1,0 +1,1352 @@
+[17:49:42] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[17:49:42] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[17:49:42] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[17:49:42] [main/INFO]: Forge Mod Loader version 14.23.5.2859 for Minecraft 1.12.2 loading
+[17:49:42] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at C:\Users\Vorhun\AppData\Roaming\.minecraft\runtime\jre-legacy\windows\jre-legacy
+[17:49:42] [main/INFO]: Searching C:\Users\Vorhun\AppData\Roaming\.minecraft\versions\ÂÎÐ×ÓÍ ÌÈÐ\mods for mods
+[17:49:42] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from 3dSkinLayers-forge-mc1.12.2-1.2.0.jar
+[17:49:42] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in mclib-2.4.2-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:49:42] [main/WARN]: The coremod McLib core mod (mchorse.mclib.core.McLibCM) is not signed!
+[17:49:42] [main/INFO]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine-1.12.2_HD_U_G5.jar
+[17:49:42] [main/WARN]: The coremod PlayerAPIPlugin (api.player.forge.PlayerAPIPlugin) is not signed!
+[17:49:42] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in tlskincape1.12.2-1.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:49:42] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:49:42] [main/INFO]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[17:49:42] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/Vorhun/AppData/Roaming/.minecraft/versions/ÂÎÐ×ÓÍ%20ÌÈÐ/mods/3dSkinLayers-forge-mc1.12.2-1.2.0.jar Service=LaunchWrapper Env=CLIENT
+[17:49:42] [main/INFO]: Loading tweak class name optifine.OptiFineForgeTweaker
+[17:49:42] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[17:49:42] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:49:42] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:49:42] [main/INFO]: Calling tweak class optifine.OptiFineForgeTweaker
+[17:49:42] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[17:49:42] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: injectIntoClassLoader
+[17:49:42] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ClassTransformer
+[17:49:42] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ZIP file: C:\Users\Vorhun\AppData\Roaming\.minecraft\versions\ÂÎÐ×ÓÍ ÌÈÐ\mods\OptiFine-1.12.2_HD_U_G5.jar
+[17:49:42] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:49:42] [main/DEBUG]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[17:49:42] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[17:49:42] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[17:49:42] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[17:49:42] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[17:49:42] [main/DEBUG]: Injection complete
+[17:49:42] [main/DEBUG]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
+[17:49:42] [main/DEBUG]: Running coremod plugin FMLCorePlugin
+[17:49:45] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[17:49:45] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[17:49:45] [main/DEBUG]: Coremod plugin class FMLCorePlugin run successfully
+[17:49:45] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:49:45] [main/DEBUG]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
+[17:49:45] [main/DEBUG]: Injection complete
+[17:49:45] [main/DEBUG]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
+[17:49:45] [main/DEBUG]: Running coremod plugin FMLForgePlugin
+[17:49:45] [main/DEBUG]: Coremod plugin class FMLForgePlugin run successfully
+[17:49:45] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:49:45] [main/DEBUG]: Injecting coremod PlayerAPIPlugin \{api.player.forge.PlayerAPIPlugin\} class transformers
+[17:49:45] [main/TRACE]: Registering transformer api.player.forge.PlayerAPITransformer
+[17:49:45] [main/DEBUG]: Injection complete
+[17:49:45] [main/DEBUG]: Running coremod plugin for PlayerAPIPlugin \{api.player.forge.PlayerAPIPlugin\}
+[17:49:45] [main/DEBUG]: Running coremod plugin PlayerAPIPlugin
+[17:49:45] [main/DEBUG]: Coremod plugin class PlayerAPIPlugin run successfully
+[17:49:45] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:49:45] [main/DEBUG]: Injecting coremod TLSkinCapeHookLoader \{org.tlauncher.skin.cape.asm.TLSkinCapeHookLoader\} class transformers
+[17:49:45] [main/TRACE]: Registering transformer gloomyfolken.hooklib.minecraft.PrimaryClassTransformer
+[17:49:45] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container gloomyfolken.hooklib.minecraft.SecondaryTransformerHook
+[17:49:45] [main/INFO]: [HOOKLIB]  Obfuscated: true
+[17:49:45] [main/DEBUG]: Injection complete
+[17:49:45] [main/DEBUG]: Running coremod plugin for TLSkinCapeHookLoader \{org.tlauncher.skin.cape.asm.TLSkinCapeHookLoader\}
+[17:49:45] [main/DEBUG]: Running coremod plugin TLSkinCapeHookLoader
+[17:49:45] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container org.tlauncher.skin.cape.asm.TLSkinCapeHooks
+[17:49:45] [main/DEBUG]: Coremod plugin class TLSkinCapeHookLoader run successfully
+[17:49:45] [main/INFO]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[17:49:45] [main/INFO]: Compatibility level set to JAVA_8
+[17:49:45] [main/ERROR]: Mixin config 3dskinlayers.mixins.json does not specify "minVersion" property
+[17:49:45] [main/INFO]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@70f31322
+[17:49:45] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:49:45] [main/DEBUG]: Injecting coremod McLib core mod \{mchorse.mclib.core.McLibCM\} class transformers
+[17:49:45] [main/TRACE]: Registering transformer mchorse.mclib.core.McLibCMClassTransformer
+[17:49:45] [main/DEBUG]: Injection complete
+[17:49:45] [main/DEBUG]: Running coremod plugin for McLib core mod \{mchorse.mclib.core.McLibCM\}
+[17:49:45] [main/DEBUG]: Running coremod plugin McLib core mod
+[17:49:45] [main/DEBUG]: Coremod plugin class McLibCM run successfully
+[17:49:45] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[17:49:45] [main/DEBUG]: Validating minecraft
+[17:49:45] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraftforge.fml.common.Loader
+[17:49:45] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraftforge.fml.common.Loader#injectData([Ljava/lang/Object;)
+[17:49:45] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Methods dictionary loaded in 7 ms
+[17:49:45] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[17:49:45] [main/INFO]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[17:49:45] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[17:49:45] [main/INFO]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[17:49:45] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[17:49:46] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraft.entity.player.EntityPlayer
+[17:49:46] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.entity.player.EntityPlayer#isWearing(Lnet/minecraft/entity/player/EnumPlayerModelParts;)
+[17:49:46] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[17:49:46] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraft.entity.player.EntityPlayer
+[17:49:46] [main/INFO]: Mixing PlayerMixin from 3dskinlayers.mixins.json into net.minecraft.entity.player.EntityPlayer
+[17:49:46] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraft.client.entity.AbstractClientPlayer
+[17:49:46] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.client.entity.AbstractClientPlayer#getLocationSkin()Lnet/minecraft/util/ResourceLocation;
+[17:49:46] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.client.entity.AbstractClientPlayer#getLocationCape()Lnet/minecraft/util/ResourceLocation;
+[17:49:46] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.client.entity.AbstractClientPlayer#getSkinType()
+[17:49:48] [Client thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[17:49:48] [Client thread/INFO]: Setting user: PSHICON
+[17:49:52] [Client thread/INFO]: [OptiFine] *** Reflector Forge ***
+[17:49:52] [Client thread/INFO]: [mchorse.mclib.core.McLibCMClassTransformer:transform:33]: McLib: patching EntityRenderer (buq)
+[17:49:52] [Client thread/INFO]: [mchorse.mclib.core.transformers.EntityRendererTransformer:processUpdateCameraAndRender:111]: McLib: successfully patched updateCameraAndRender!
+[17:49:52] [Client thread/INFO]: [mchorse.mclib.core.transformers.EntityRendererTransformer:processRenderWorldPass:51]: McLib: successfully patched renderWorldPass!
+[17:49:53] [Client thread/INFO]: Mixing RendererLivingEntityMixin from 3dskinlayers.mixins.json into net.minecraft.client.renderer.entity.RenderLivingBase
+[17:49:53] [Client thread/INFO]: [OptiFine] *** Reflector Vanilla ***
+[17:49:53] [Client thread/WARN]: Skipping bad option: lastServer:
+[17:49:53] [Client thread/INFO]: LWJGL Version: 2.9.4
+[17:49:55] [Client thread/INFO]: [OptiFine] 
+[17:49:55] [Client thread/INFO]: [OptiFine] OptiFine_1.12.2_HD_U_G5
+[17:49:55] [Client thread/INFO]: [OptiFine] Build: 20210124-142939
+[17:49:55] [Client thread/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[17:49:55] [Client thread/INFO]: [OptiFine] Java: 1.8.0_51, Oracle Corporation
+[17:49:55] [Client thread/INFO]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[17:49:55] [Client thread/INFO]: [OptiFine] LWJGL: 2.9.4
+[17:49:55] [Client thread/INFO]: [OptiFine] OpenGL: NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2, version 4.6.0 NVIDIA 536.67, NVIDIA Corporation
+[17:49:55] [Client thread/INFO]: [OptiFine] OpenGL Version: 4.6.0
+[17:49:55] [Client thread/INFO]: [OptiFine] Maximum texture size: 32768x32768
+[17:49:55] [VersionCheck/INFO]: [OptiFine] Checking for new version
+[17:49:55] [Client thread/INFO]: [Shaders] OpenGL Version: 4.6.0 NVIDIA 536.67
+[17:49:55] [Client thread/INFO]: [Shaders] Vendor:  NVIDIA Corporation
+[17:49:55] [Client thread/INFO]: [Shaders] Renderer: NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2
+[17:49:55] [Client thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[17:49:55] [Client thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[17:49:55] [Client thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[17:49:55] [Client thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[17:49:55] [Client thread/INFO]: [Shaders] Load shaders configuration.
+[17:49:55] [Client thread/INFO]: [Shaders] Loaded shaderpack: SEUS-Renewed-v1.0.1.zip
+[17:49:55] [Client thread/INFO]: [OptiFine] [Shaders] Worlds: -1, 1
+[17:49:55] [VersionCheck/INFO]: [OptiFine] Version found: G5
+[17:49:55] [Client thread/WARN]: [OptiFine] Ambiguous shader option: GENERAL_GRASS_FIX
+[17:49:55] [Client thread/WARN]: [OptiFine]  - in gbuffers_terrain.vsh: true
+[17:49:55] [Client thread/WARN]: [OptiFine]  - in gbuffers_damagedblock.vsh: false
+[17:49:55] [Client thread/WARN]: [OptiFine] Ambiguous shader option: SHADOW_MAP_BIAS
+[17:49:55] [Client thread/WARN]: [OptiFine]  - in shadow.vsh, composite.fsh: 0.90
+[17:49:55] [Client thread/WARN]: [OptiFine]  - in composite2.fsh: 0.9
+[17:49:55] [Client thread/WARN]: [OptiFine] Ambiguous shader option: GENERAL_GRASS_FIX
+[17:49:55] [Client thread/WARN]: [OptiFine]  - in gbuffers_terrain.vsh, gbuffers_damagedblock.vsh, world-1/gbuffers_terrain.vsh: true
+[17:49:55] [Client thread/WARN]: [OptiFine]  - in world-1/gbuffers_damagedblock.vsh: false
+[17:49:55] [Client thread/WARN]: [OptiFine] Ambiguous shader option: SHADOW_MAP_BIAS
+[17:49:55] [Client thread/WARN]: [OptiFine]  - in shadow.vsh, composite.fsh, composite2.fsh, world-1/shadow.vsh, world-1/composite.fsh: 0.90
+[17:49:55] [Client thread/WARN]: [OptiFine]  - in world-1/composite2.fsh: 0.9
+[17:49:55] [Client thread/WARN]: [OptiFine] Ambiguous shader option: GENERAL_GRASS_FIX
+[17:49:55] [Client thread/WARN]: [OptiFine]  - in gbuffers_terrain.vsh, gbuffers_damagedblock.vsh, world-1/gbuffers_terrain.vsh, world-1/gbuffers_damagedblock.vsh, world1/gbuffers_terrain.vsh: true
+[17:49:55] [Client thread/WARN]: [OptiFine]  - in world1/gbuffers_damagedblock.vsh: false
+[17:49:55] [Client thread/WARN]: [OptiFine] Ambiguous shader option: SHADOW_MAP_BIAS
+[17:49:55] [Client thread/WARN]: [OptiFine]  - in shadow.vsh, composite.fsh, composite2.fsh, world-1/shadow.vsh, world-1/composite.fsh, world-1/composite2.fsh, world1/shadow.vsh, world1/composite.fsh: 0.90
+[17:49:55] [Client thread/WARN]: [OptiFine]  - in world1/composite2.fsh: 0.9
+[17:49:56] [Client thread/INFO]: [OptiFine] [Shaders] Delayed loading of block mappings after resources are loaded
+[17:49:56] [Client thread/INFO]: [OptiFine] [Shaders] Delayed loading of item mappings after resources are loaded
+[17:49:56] [Client thread/INFO]: [OptiFine] [Shaders] Delayed loading of entity mappings after resources are loaded
+[17:49:56] [Client thread/WARN]: [OptiFine] [Shaders] Option profile can not be used, no profiles defined: <profile>, key: screen
+[17:49:56] [Client thread/WARN]: [OptiFine] [Shaders] Invalid option: ATMOSPHERIC_SCATTERING, key: screen.ATMOSPHERICS
+[17:49:56] [Client thread/WARN]: [OptiFine] [Shaders] Invalid option: ATMOSPHERIC_HAZE, key: screen.ATMOSPHERICS
+[17:49:56] [Client thread/WARN]: [OptiFine] [Shaders] Invalid option: CREPUSCULAR_RAYS, key: screen.ATMOSPHERICS
+[17:49:56] [Client thread/WARN]: [OptiFine] [Shaders] Invalid option: VOLUMETRIC_CLOUDS, key: screen.ATMOSPHERICS
+[17:49:56] [Client thread/WARN]: [OptiFine] [Shaders] Invalid option: HQ_VOLUMETRIC_CLOUDS, key: screen.ATMOSPHERICS
+[17:49:56] [Client thread/WARN]: [OptiFine] [Shaders] Invalid option: SMOOTH_CLOUDS, key: screen.ATMOSPHERICS
+[17:49:56] [Client thread/WARN]: [OptiFine] [Shaders] Invalid option: ENABLE_SOFT_SHADOWS, key: screen.LIGHTING
+[17:49:56] [Client thread/WARN]: [OptiFine] [Shaders] Invalid option: PIXEL_SHADOWS, key: screen.LIGHTING
+[17:49:56] [Client thread/WARN]: [OptiFine] [Shaders] Invalid option: TONEMAP_STRENGTH, key: screen.LIGHTING
+[17:49:56] [Client thread/WARN]: [OptiFine] [Shaders] Invalid option: BRIGHTNESS_LEVEL, key: screen.LIGHTING
+[17:49:56] [Client thread/WARN]: [OptiFine] [Shaders] Invalid option: WATER_CAUSTICS, key: screen.SURFACE
+[17:49:56] [Client thread/INFO]: [Shaders] Custom texture: texture.gbuffers.gaux1 = textures/RippleAnimation1.png
+[17:49:56] [Client thread/INFO]: [Shaders] Custom texture: texture.gbuffers.gaux2 = textures/RippleAnimation2.png
+[17:49:56] [Client thread/INFO]: [Shaders] Custom texture: texture.gbuffers.gaux3 = textures/RippleAnimation3.png
+[17:49:57] [Client thread/INFO]: [mchorse.mclib.core.McLibCMClassTransformer:transform:21]: McLib: Transforming SimpleReloadableResourceManager class (cev)
+[17:49:57] [Client thread/INFO]: [mchorse.mclib.core.transformers.SimpleReloadableResourceManagerTransformer:processMethod:43]: McLib: successfully patched getResource!
+[17:49:57] [Client thread/INFO]: Forge Mod Loader has detected optifine OptiFine_1.12.2_HD_U_G5, enabling compatibility features
+[17:49:57] [Client thread/INFO]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 571811784 bytes (545 MB) / 805306368 bytes (768 MB) up to 3154116608 bytes (3008 MB)
+	JVM Flags: 7 total; -Xmx3000M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+McLib core mod (mclib-2.4.2-1.12.2.jar)
+  mchorse.mclib.core.McLibCMClassTransformer
+TLSkinCapeHookLoader (tlskincape1.12.2-1.4.jar)
+  gloomyfolken.hooklib.minecraft.PrimaryClassTransformer
+PlayerAPIPlugin (PlayerAPI_1.12.2_1.0.jar)
+  api.player.forge.PlayerAPITransformer
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 536.67' Renderer: 'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+[17:49:57] [Client thread/INFO]: MinecraftForge v14.23.5.2859 Initialized
+[17:49:57] [Client thread/INFO]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[17:49:57] [Client thread/INFO]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[17:49:57] [Client thread/INFO]: Replaced 1227 ore ingredients
+[17:49:58] [Client thread/INFO]: Searching C:\Users\Vorhun\AppData\Roaming\.minecraft\versions\ÂÎÐ×ÓÍ ÌÈÐ\mods for mods
+[17:49:59] [Client thread/ERROR]: Unable to read a class file correctly
+java.lang.IllegalArgumentException: null
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) [ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.findClassesASM(JarDiscoverer.java:102) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:77) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:47) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:74) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:93) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:427) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:568) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:232) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:467) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[17:49:59] [Client thread/ERROR]: There was a problem reading the entry org/spongepowered/asm/launch/MixinLaunchPlugin.class in the jar C:\Users\Vorhun\AppData\Roaming\.minecraft\versions\ÂÎÐ×ÓÍ ÌÈÐ\mods\3dSkinLayers-forge-mc1.12.2-1.2.0.jar - probably a corrupt zip
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.findClassesASM(JarDiscoverer.java:102) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:77) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:47) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:74) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:93) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:427) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:568) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:232) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:467) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
+	... 17 more
+[17:49:59] [Client thread/WARN]: Zip file 3dSkinLayers-forge-mc1.12.2-1.2.0.jar failed to read properly, it will be ignored
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.findClassesASM(JarDiscoverer.java:102) ~[JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:77) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:47) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:74) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:93) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:427) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:568) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:232) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:467) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
+	... 17 more
+[17:49:59] [Client thread/WARN]: Mod falling_tree is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.4.0
+[17:49:59] [Client thread/WARN]: Mod fpsreducer is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version mc1.12.2-1.20
+[17:49:59] [Client thread/WARN]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
+[17:50:00] [Client thread/WARN]: Mod waystones is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.1.0
+[17:50:00] [Client thread/INFO]: Forge Mod Loader has identified 35 mods to load
+[17:50:00] [Client thread/WARN]: Mod mclib_core has been disabled through configuration
+[17:50:01] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, PlayerAPI, skinlayers3d, appleskin, appletreesrev, biomesoplenty, carryon, dynamictrees, falling_tree, fpsreducer, cfm, gravestone, hats, ichunutil, ironchest, jei, journeymap, lucky, mclib, metamorph, mutantbeasts, quickteleports, scp, smartmoving, smartrender, tlauncher_custom_cape_skin, torohealthmod, travelersbackpack, twilightforest, waystones, betteranimalsplus] at CLIENT
+[17:50:01] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, PlayerAPI, skinlayers3d, appleskin, appletreesrev, biomesoplenty, carryon, dynamictrees, falling_tree, fpsreducer, cfm, gravestone, hats, ichunutil, ironchest, jei, journeymap, lucky, mclib, metamorph, mutantbeasts, quickteleports, scp, smartmoving, smartrender, tlauncher_custom_cape_skin, torohealthmod, travelersbackpack, twilightforest, waystones, betteranimalsplus] at SERVER
+[17:50:01] [Client thread/INFO]: [mchorse.mclib.core.McLibCMClassTransformer:transform:39]: McLib: Transforming PacketBuffer class (gy)
+[17:50:01] [Client thread/INFO]: [mchorse.mclib.core.transformers.PacketBufferTransformer:replaceConstant:50]: McLib: successfully patched gy.f!
+[17:50:01] [Client thread/INFO]: [mchorse.mclib.core.transformers.PacketBufferTransformer:replaceConstant:50]: McLib: successfully patched gy.a!
+[17:50:01] [Client thread/INFO]: [mchorse.mclib.core.transformers.PacketBufferTransformer:replaceConstant:50]: McLib: successfully patched gy.l!
+[17:50:01] [Client thread/ERROR]: The mod carryon is expecting signature fd21553434f4905f2f73ea7838147ac4ea07bd88 for source carryon-1.12.2-1.12.7.23.jar, however there is no signature matching that description
+[17:50:02] [Thread-3/INFO]: Using alternative sync timing : 200 frames of Display.update took 3994204700 nanos
+[17:50:03] [Client thread/INFO]: Mixing PlayerRendererMixin from 3dskinlayers.mixins.json into net.minecraft.client.renderer.entity.RenderPlayer
+[17:50:03] [Client thread/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraft.client.entity.AbstractClientPlayer
+[17:50:04] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:3dSkinLayers, FMLFileResourcePack:AppleSkin, FMLFileResourcePack:Apple Trees Mod Revived, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:Carry On, FMLFileResourcePack:Dynamic Trees, FMLFileResourcePack:Falling Tree, FMLFileResourcePack:FPS Reducer, FMLFileResourcePack:MrCrayfish's Furniture Mod, FMLFileResourcePack:Gravestone Mod, FMLFileResourcePack:Hats, FMLFileResourcePack:iChunUtil, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Lucky Block, FMLFileResourcePack:McLib, FMLFileResourcePack:Metamorph, FMLFileResourcePack:Mutant Beasts, FMLFileResourcePack:Quick Teleports, FMLFileResourcePack:SCP: Lockdown, FMLFileResourcePack:Smart Moving, FMLFileResourcePack:Smart Render, FMLFileResourcePack:TLSkinCape, FMLFileResourcePack:ToroHealth Damage Indicators, FMLFileResourcePack:Traveler's Backpack, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Waystones, FMLFileResourcePack:Better Animals Plus, Round+Trees+2.7+?§31.12+?§o.zip, slight-depth-1.12-b5.zip, FreshAnimations_v1.6.zip, Default-Dark-Mode-1.12-2023.6.0.zip, Invisible+Item+Frame+3.zip
+[17:50:05] [Client thread/INFO]: Processing ObjectHolder annotations
+[17:50:05] [Client thread/INFO]: Found 1577 ObjectHolder annotations
+[17:50:05] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[17:50:05] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[17:50:05] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[17:50:05] [Forge Version Check/INFO]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
+[17:50:05] [Forge Version Check/INFO]: [twilightforest] Found status: AHEAD Target: null
+[17:50:05] [Forge Version Check/INFO]: [mclib] Starting version check at https://raw.githubusercontent.com/mchorse/mclib/1.12/version.json
+[17:50:05] [Forge Version Check/INFO]: [mclib] Found status: AHEAD Target: null
+[17:50:05] [Forge Version Check/INFO]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[17:50:05] [Client thread/WARN]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
+[17:50:06] [Forge Version Check/INFO]: [gravestone] Starting version check at http://maxhenkel.de/update/gravestone.json
+[17:50:07] [Forge Version Check/INFO]: [carryon] Starting version check at https://gist.githubusercontent.com/Tschipp/dccadee7c90d7a34e6e76a35d9d6fa2e/raw/
+[17:50:07] [Forge Version Check/INFO]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[17:50:07] [Forge Version Check/INFO]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
+[17:50:08] [Forge Version Check/INFO]: [dynamictrees] Found status: UP_TO_DATE Target: null
+[17:50:08] [Forge Version Check/INFO]: [metamorph] Starting version check at https://raw.githubusercontent.com/mchorse/metamorph/1.12/version.json
+[17:50:08] [Forge Version Check/INFO]: [metamorph] Found status: UP_TO_DATE Target: null
+[17:50:08] [Client thread/INFO]: [com.ferreusveritas.dynamictrees.ModConfigs:preInit:112]: DynamicTrees BlackListed DimValue: 7
+[17:50:08] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `species_tile_entity`, expected `dynamictrees`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:08] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `bonsai_tile_entity`, expected `dynamictrees`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:10] [Client thread/INFO]: Found @journeymap.client.api.ClientPlugin: net.blay09.mods.waystones.compat.JourneyMapAddon
+[17:50:10] [Hats Download/Read Hats Thread/INFO]: [7.1.1] Extracted 198 hats from archive
+[17:50:10] [Hats Mod Mob Support Thread/INFO]: [me.ichun.mods.hats.common.thread.ThreadGetModMobSupport:run:90]: java.io.FileNotFoundException: https://raw.githubusercontent.com/iChun/Hats/master/src/main/resources/assets/hats/mod/HatModMobSupport.json
+[17:50:10] [Hats Mod Mob Support Thread/INFO]: [me.ichun.mods.hats.common.thread.ThreadGetModMobSupport:run:90]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1835)
+[17:50:10] [Hats Mod Mob Support Thread/INFO]: [me.ichun.mods.hats.common.thread.ThreadGetModMobSupport:run:90]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[17:50:10] [Hats Mod Mob Support Thread/INFO]: [me.ichun.mods.hats.common.thread.ThreadGetModMobSupport:run:90]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[17:50:10] [Hats Mod Mob Support Thread/INFO]: [me.ichun.mods.hats.common.thread.ThreadGetModMobSupport:run:90]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[17:50:10] [Hats Mod Mob Support Thread/INFO]: [me.ichun.mods.hats.common.thread.ThreadGetModMobSupport:run:90]: 	at java.security.AccessController.doPrivileged(Native Method)
+[17:50:10] [Hats Mod Mob Support Thread/INFO]: [me.ichun.mods.hats.common.thread.ThreadGetModMobSupport:run:90]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[17:50:10] [Hats Mod Mob Support Thread/INFO]: [me.ichun.mods.hats.common.thread.ThreadGetModMobSupport:run:90]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[17:50:10] [Hats Mod Mob Support Thread/INFO]: [me.ichun.mods.hats.common.thread.ThreadGetModMobSupport:run:90]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254)
+[17:50:10] [Hats Mod Mob Support Thread/INFO]: [me.ichun.mods.hats.common.thread.ThreadGetModMobSupport:run:90]: 	at java.net.URL.openStream(URL.java:1038)
+[17:50:10] [Hats Mod Mob Support Thread/INFO]: [me.ichun.mods.hats.common.thread.ThreadGetModMobSupport:run:90]: 	at me.ichun.mods.hats.common.thread.ThreadGetModMobSupport.run(ThreadGetModMobSupport.java:41)
+[17:50:11] [Client thread/INFO]: Loaded 0 donor names
+[17:50:11] [Client thread/INFO]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
+[17:50:11] [Client thread/INFO]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
+[17:50:11] [Client thread/INFO]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
+[17:50:11] [Client thread/INFO]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
+[17:50:11] [Client thread/INFO]: Starting the Integration Handler.
+[17:50:11] [Client thread/INFO]: Didn't find any possible mod integration(s)!
+[17:50:12] [Client thread/INFO]: Skipped compatibility for mod Baubles.
+[17:50:12] [Client thread/INFO]: Skipped compatibility for mod Chisel.
+[17:50:12] [Client thread/INFO]: Skipped compatibility for mod Forestry.
+[17:50:12] [Client thread/INFO]: Skipped compatibility for mod Immersive Engineering.
+[17:50:12] [Client thread/INFO]: Loaded compatibility for mod Just Enough Items.
+[17:50:12] [Client thread/INFO]: Skipped compatibility for mod Tinkers' Construct.
+[17:50:12] [Client thread/INFO]: Skipped compatibility for mod Thaumcraft.
+[17:50:12] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitygavestone`, expected `gravestone`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:12] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:12] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:12] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:12] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:12] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:12] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:12] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:12] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:12] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:12] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:12] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:12] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:12] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:12] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:12] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:13] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `scp-control_panel`, expected `scp`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:13] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `scp-item_generator`, expected `scp`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:13] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `scp-card_reader`, expected `scp`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:13] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `scp-document_machine`, expected `scp`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:13] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `scp-computer`, expected `scp`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:13] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `scp-file_cabinet`, expected `scp`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:13] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `scp-shelf`, expected `scp`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:13] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `scp-item_plate`, expected `scp`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:13] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `scp-sliding_door`, expected `scp`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:13] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `scp-desk`, expected `scp`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:13] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `scp-bloodstone`, expected `scp`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:13] [Client thread/INFO]: Applying holder lookups
+[17:50:13] [Client thread/INFO]: Holder lookups applied
+[17:50:13] [Client thread/INFO]: Applying holder lookups
+[17:50:13] [Client thread/INFO]: Holder lookups applied
+[17:50:14] [Client thread/INFO]: Registered 77 SCPs
+[17:50:14] [Client thread/INFO]: Applying holder lookups
+[17:50:14] [Client thread/INFO]: Holder lookups applied
+[17:50:15] [Client thread/INFO]: Applying holder lookups
+[17:50:15] [Client thread/INFO]: Holder lookups applied
+[17:50:15] [Client thread/INFO]: Injecting itemstacks
+[17:50:15] [Client thread/INFO]: Itemstack injection complete
+[17:50:15] [Client thread/INFO]: [OptiFine] *** Reloading textures ***
+[17:50:15] [Client thread/INFO]: [OptiFine] Resource packs: Round+Trees+2.7+?§31.12+?§o.zip, slight-depth-1.12-b5.zip, FreshAnimations_v1.6.zip, Default-Dark-Mode-1.12-2023.6.0.zip, Invisible+Item+Frame+3.zip
+[17:50:15] [Client thread/INFO]: [OptiFine] EmissiveTextures: Loading optifine/emissive.properties
+[17:50:16] [Hats Download/Read Hats Thread/INFO]: [7.1.1] Loaded 198 hats. 68 are contributor hats.
+[17:50:23] [Client thread/WARN]: Missing sound for event: cfm:channel_news
+[17:50:23] [Client thread/WARN]: Missing sound for event: cfm:channel_cooking
+[17:50:23] [Client thread/WARN]: Missing sound for event: cfm:channel_sam_tabor
+[17:50:23] [Client thread/WARN]: Missing sound for event: cfm:channel_heman
+[17:50:23] [Client thread/WARN]: Missing sound for event: cfm:channel_switch
+[17:50:23] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[17:50:23] [Thread-7/INFO]: Initializing LWJGL OpenAL
+[17:50:23] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[17:50:24] [Thread-7/INFO]: OpenAL initialized.
+[17:50:24] [Sound Library Loader/INFO]: Sound engine started
+[17:50:25] [Client thread/ERROR]: Could not load vanilla model parent 'minecraft:block/generic_dispenser_face' for 'net.minecraft.client.renderer.block.model.ModelBlock@f2019ff'
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model minecraft:block/generic_dispenser_face with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModelOrLogError(ModelLoaderRegistry.java:211) [ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaModelWrapper.getTextures(ModelLoader.java:387) [ModelLoader$VanillaModelWrapper.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:171) [ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader$WeightedRandomModel.<init>(ModelLoader.java:658) [ModelLoader$WeightedRandomModel.class:?]
+	at net.minecraftforge.client.model.ModelLoader$MultipartModel.<init>(ModelLoader.java:1214) [ModelLoader$MultipartModel.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1185) [ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) [ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) [ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.registerMultipartVariant(ModelLoader.java:251) [ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:152) [cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_188640_b(ModelLoader.java:223) [ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:150) [ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.io.FileNotFoundException: minecraft:models/block/generic_dispenser_face.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177594_c(ModelBakery.java:365) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861) ~[ModelLoader$VanillaLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 23 more
+[17:50:28] [Client thread/INFO]: [OptiFine] Mipmap levels: 4
+[17:50:28] [Client thread/INFO]: [OptiFine] Multitexture: false
+[17:50:28] [Client thread/INFO]: [OptiFine] Multipass connected textures: false
+[17:50:28] [Client thread/INFO]: [OptiFine] Multipass connected textures: false
+[17:50:28] [Client thread/INFO]: [OptiFine] Multipass connected textures: false
+[17:50:28] [Client thread/INFO]: [OptiFine] Multipass connected textures: false
+[17:50:28] [Client thread/INFO]: [OptiFine] Multipass connected textures: false
+[17:50:28] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_pane_white.properties
+[17:50:28] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_white.properties
+[17:50:28] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_pane_purple.properties
+[17:50:28] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_purple.properties
+[17:50:28] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_blue.properties
+[17:50:28] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_pane_blue.properties
+[17:50:28] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_brown.properties
+[17:50:28] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_pane_brown.properties
+[17:50:28] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_green.properties
+[17:50:28] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_pane_green.properties
+[17:50:28] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_pane_red.properties
+[17:50:28] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_red.properties
+[17:50:28] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_black.properties
+[17:50:28] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_pane_black.properties
+[17:50:28] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_orange.properties
+[17:50:28] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_pane_orange.properties
+[17:50:28] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_magenta.properties
+[17:50:28] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_pane_magenta.properties
+[17:50:28] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_light_blue.properties
+[17:50:28] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_pane_light_blue.properties
+[17:50:28] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_pane_yellow.properties
+[17:50:28] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_yellow.properties
+[17:50:28] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_lime.properties
+[17:50:28] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_pane_lime.properties
+[17:50:28] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pane_pink.properties
+[17:50:28] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pink.properties
+[17:50:28] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_gray.properties
+[17:50:28] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_pane_gray.properties
+[17:50:28] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_pane_silver.properties
+[17:50:28] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_silver.properties
+[17:50:28] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_cyan.properties
+[17:50:28] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_pane_cyan.properties
+[17:50:28] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glass.properties
+[17:50:28] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glasspane.properties
+[17:50:28] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/sandstone.properties
+[17:50:28] [Client thread/INFO]: [OptiFine] Multipass connected textures: false
+[17:50:28] [Client thread/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[17:50:29] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/golden_pickaxe.png, java.io.FileNotFoundException
+[17:50:29] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/item_frame.png, java.io.FileNotFoundException
+[17:50:29] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/block/carrots/leaf_stage_2.png, java.io.FileNotFoundException
+[17:50:29] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/golden_sword.png, java.io.FileNotFoundException
+[17:50:29] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/wooden_hoe.png, java.io.FileNotFoundException
+[17:50:29] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/golden_hoe.png, java.io.FileNotFoundException
+[17:50:30] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/golden_shovel.png, java.io.FileNotFoundException
+[17:50:30] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/wooden_axe.png, java.io.FileNotFoundException
+[17:50:30] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/white_tulip.png, java.io.FileNotFoundException
+[17:50:30] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/golden_axe.png, java.io.FileNotFoundException
+[17:50:30] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/block/oak_log.png, java.io.FileNotFoundException
+[17:50:30] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/stone_pockaxe.png, java.io.FileNotFoundException
+[17:50:30] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/wooden_sword.png, java.io.FileNotFoundException
+[17:50:30] [Client thread/INFO]: [OptiFine] Scaled too small texture: mutantbeasts:particle/skull_spirit, 8 -> 16
+[17:50:30] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/pink_tulip.png, java.io.FileNotFoundException
+[17:50:30] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/block/birch_planks.png, java.io.FileNotFoundException
+[17:50:30] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/wooden_shovel.png, java.io.FileNotFoundException
+[17:50:30] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/orange_tulip.png, java.io.FileNotFoundException
+[17:50:30] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/wooden_pickaxe.png, java.io.FileNotFoundException
+[17:50:31] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/red_tulip.png, java.io.FileNotFoundException
+[17:50:31] [Client thread/INFO]: [OptiFine] Custom loader sprites: 13
+[17:50:31] [Client thread/INFO]: [OptiFine] Sprite dependencies: 19
+[17:50:31] [Client thread/INFO]: Created: 2048x1024 textures-atlas
+[17:50:31] [Client thread/INFO]: [Shaders] allocateTextureMap 4 2048 1024 
+[17:50:31] [Client thread/INFO]: [OptiFine] Animated sprites: 93
+[17:50:34] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/item/command_block_minecart.json
+[17:50:34] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/item/command_block_minecart.json
+[17:50:34] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/item/command_block_minecart.json
+[17:50:34] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in minecraft:models/item/command_block_minecart.json
+[17:50:34] [Client thread/INFO]: [com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling:<init>:73]: net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model dynamictrees:block/saplings/tallbirch with loader VanillaLoader.INSTANCE, skipping
+[17:50:34] [Client thread/INFO]: [com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling:<init>:73]: 	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161)
+[17:50:34] [Client thread/INFO]: [com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling:<init>:73]: 	at com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling.<init>(BakedModelSapling.java:68)
+[17:50:34] [Client thread/INFO]: [com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling:<init>:73]: 	at com.ferreusveritas.dynamictrees.models.loaders.ModelLoaderSapling$1.bake(ModelLoaderSapling.java:26)
+[17:50:34] [Client thread/INFO]: [com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling:<init>:73]: 	at net.minecraftforge.client.model.ModelLoader$WeightedRandomModel.bake(ModelLoader.java:719)
+[17:50:34] [Client thread/INFO]: [com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling:<init>:73]: 	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:180)
+[17:50:34] [Client thread/INFO]: [com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling:<init>:73]: 	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28)
+[17:50:34] [Client thread/INFO]: [com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling:<init>:73]: 	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121)
+[17:50:34] [Client thread/INFO]: [com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling:<init>:73]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513)
+[17:50:34] [Client thread/INFO]: [com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling:<init>:73]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+[17:50:34] [Client thread/INFO]: [com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling:<init>:73]: 	at net.minecraft.client.main.Main.main(SourceFile:123)
+[17:50:34] [Client thread/INFO]: [com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling:<init>:73]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[17:50:34] [Client thread/INFO]: [com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling:<init>:73]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[17:50:34] [Client thread/INFO]: [com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling:<init>:73]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[17:50:34] [Client thread/INFO]: [com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling:<init>:73]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[17:50:34] [Client thread/INFO]: [com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling:<init>:73]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[17:50:34] [Client thread/INFO]: [com.ferreusveritas.dynamictrees.models.bakedmodels.BakedModelSapling:<init>:73]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[17:50:34] [Client thread/INFO]: [java.lang.Throwable:printStackTrace:634]: Caused by: java.io.FileNotFoundException: dynamictrees:models/block/saplings/tallbirch.json
+[17:50:34] [Client thread/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69)
+[17:50:34] [Client thread/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65)
+[17:50:34] [Client thread/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at net.minecraft.client.renderer.block.model.ModelBakery.func_177594_c(ModelBakery.java:365)
+[17:50:34] [Client thread/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115)
+[17:50:34] [Client thread/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861)
+[17:50:34] [Client thread/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157)
+[17:50:34] [Client thread/INFO]: [java.lang.Throwable:printStackTrace:634]: 	... 15 more
+[17:50:35] [Client thread/ERROR]: Exception loading model for variant twilightforest:trans_door#inventory, normal location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model twilightforest:item/trans_door with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177590_d(ModelLoader.java:302) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177577_b(ModelBakery.java:194) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:151) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.io.FileNotFoundException: twilightforest:models/item/trans_door.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177594_c(ModelBakery.java:365) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861) ~[ModelLoader$VanillaLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 14 more
+[17:50:35] [Client thread/ERROR]: Exception loading model for variant twilightforest:trans_door#inventory, blockstate location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model twilightforest:trans_door#inventory with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177590_d(ModelLoader.java:296) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177577_b(ModelBakery.java:194) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:151) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83) ~[bvv.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 14 more
+[17:50:35] [Client thread/ERROR]: Exception loading model for variant twilightforest:twilight_oak_door#inventory, normal location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model twilightforest:item/twilight_oak_door with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177590_d(ModelLoader.java:302) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177577_b(ModelBakery.java:194) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:151) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.io.FileNotFoundException: twilightforest:models/item/twilight_oak_door.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177594_c(ModelBakery.java:365) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861) ~[ModelLoader$VanillaLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 14 more
+[17:50:35] [Client thread/ERROR]: Exception loading model for variant twilightforest:twilight_oak_door#inventory, blockstate location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model twilightforest:twilight_oak_door#inventory with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177590_d(ModelLoader.java:296) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177577_b(ModelBakery.java:194) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:151) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83) ~[bvv.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 14 more
+[17:50:35] [Client thread/ERROR]: Exception loading model for variant twilightforest:mangrove_door#inventory, normal location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model twilightforest:item/mangrove_door with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177590_d(ModelLoader.java:302) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177577_b(ModelBakery.java:194) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:151) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.io.FileNotFoundException: twilightforest:models/item/mangrove_door.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177594_c(ModelBakery.java:365) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861) ~[ModelLoader$VanillaLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 14 more
+[17:50:35] [Client thread/ERROR]: Exception loading model for variant twilightforest:mangrove_door#inventory, blockstate location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model twilightforest:mangrove_door#inventory with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177590_d(ModelLoader.java:296) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177577_b(ModelBakery.java:194) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:151) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83) ~[bvv.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 14 more
+[17:50:35] [Client thread/ERROR]: Exception loading model for variant twilightforest:sort_door#inventory, normal location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model twilightforest:item/sort_door with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177590_d(ModelLoader.java:302) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177577_b(ModelBakery.java:194) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:151) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.io.FileNotFoundException: twilightforest:models/item/sort_door.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177594_c(ModelBakery.java:365) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861) ~[ModelLoader$VanillaLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 14 more
+[17:50:35] [Client thread/ERROR]: Exception loading model for variant twilightforest:sort_door#inventory, blockstate location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model twilightforest:sort_door#inventory with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177590_d(ModelLoader.java:296) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177577_b(ModelBakery.java:194) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:151) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83) ~[bvv.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 14 more
+[17:50:35] [Client thread/FATAL]: Suppressed additional 3 model loading errors for domain twilightforest
+[17:50:37] [Client thread/INFO]: Applying holder lookups
+[17:50:37] [Client thread/INFO]: Holder lookups applied
+[17:50:37] [Client thread/INFO]: Created: 128x256 textures-atlas
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmoven`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmfridge`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmfreezer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbedsidecabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmailbox`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcomputer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmprinter`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmstereo`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmpresent`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbin`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmwallcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbath`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmshowerhead`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmplate`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcouch`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtoaster`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmchoppingboard`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmblender`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmicrowave`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmwashingmachine`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdishwasher`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcabinetkitchen`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcup`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcookiejar`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtree`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmirror`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmgrill`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmeski`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdoormat`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcrate`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmlightswitch`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmceilingfan`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdeskcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmodernslidingdoor`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdigitalclock`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtv`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmkitchencounter`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmkitchencounterdrawer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:38] [iChunUtil Online Resource Thread/WARN]: Error retrieving iChunUtil patron list.
+[17:50:38] [iChunUtil Online Resource Thread/INFO]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:61]: java.io.FileNotFoundException: https://raw.githubusercontent.com/iChun/iChunUtil/master/src/main/resources/assets/ichunutil/mod/patrons.json
+[17:50:38] [iChunUtil Online Resource Thread/INFO]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:61]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1835)
+[17:50:38] [iChunUtil Online Resource Thread/INFO]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:61]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[17:50:38] [iChunUtil Online Resource Thread/INFO]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:61]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[17:50:38] [iChunUtil Online Resource Thread/INFO]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:61]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[17:50:38] [iChunUtil Online Resource Thread/INFO]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:61]: 	at java.security.AccessController.doPrivileged(Native Method)
+[17:50:38] [iChunUtil Online Resource Thread/INFO]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:61]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[17:50:38] [iChunUtil Online Resource Thread/INFO]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:61]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[17:50:38] [iChunUtil Online Resource Thread/INFO]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:61]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254)
+[17:50:38] [iChunUtil Online Resource Thread/INFO]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:61]: 	at java.net.URL.openStream(URL.java:1038)
+[17:50:38] [iChunUtil Online Resource Thread/INFO]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:61]: 	at me.ichun.mods.ichunutil.common.thread.ThreadGetResources.run(ThreadGetResources.java:38)
+[17:50:38] [Client thread/INFO]: JourneyMap log initialized.
+[17:50:38] [Client thread/INFO]: initialize ENTER
+[17:50:38] [Client thread/WARN]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[17:50:38] [Client thread/WARN]: core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[17:50:38] [iChunUtil Online Resource Thread/WARN]: Error retrieving mods versions list.
+[17:50:38] [iChunUtil Online Resource Thread/INFO]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: java.io.FileNotFoundException: https://raw.githubusercontent.com/iChun/iChunUtil/master/src/main/resources/assets/ichunutil/mod/versions.json
+[17:50:38] [iChunUtil Online Resource Thread/INFO]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1835)
+[17:50:38] [iChunUtil Online Resource Thread/INFO]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[17:50:38] [iChunUtil Online Resource Thread/INFO]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[17:50:38] [iChunUtil Online Resource Thread/INFO]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[17:50:38] [iChunUtil Online Resource Thread/INFO]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at java.security.AccessController.doPrivileged(Native Method)
+[17:50:38] [iChunUtil Online Resource Thread/INFO]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[17:50:38] [iChunUtil Online Resource Thread/INFO]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[17:50:38] [iChunUtil Online Resource Thread/INFO]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254)
+[17:50:38] [iChunUtil Online Resource Thread/INFO]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at java.net.URL.openStream(URL.java:1038)
+[17:50:38] [iChunUtil Online Resource Thread/INFO]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at me.ichun.mods.ichunutil.common.thread.ThreadGetResources.run(ThreadGetResources.java:67)
+[17:50:38] [Client thread/INFO]: [ClientAPI] built with JourneyMap API 1.4
+[17:50:38] [Client thread/INFO]: Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[17:50:38] [Client thread/INFO]: Initialized IClientPlugin: net.blay09.mods.waystones.compat.JourneyMapAddon
+[17:50:38] [Client thread/INFO]: initialize EXIT, elapsed count 0 avg ?ms
+[17:50:38] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `luckyblockdata`, expected `lucky`. This could be a intended override, but in most cases indicates a broken mod.
+[17:50:39] [Client thread/INFO]: [api.player.client.ClientPlayerAPI:log:37]: Client Player 1.0 Created
+[17:50:39] [Client thread/INFO]: [api.player.client.ClientPlayerAPI:register:869]: Client Player: registered Smart Moving
+[17:50:39] [Client thread/INFO]: [api.player.server.ServerPlayerAPI:log:37]: Server Player 1.0 Created
+[17:50:39] [Client thread/INFO]: [api.player.server.ServerPlayerAPI:register:759]: Server Player: registered Smart Moving
+[17:50:39] [Client thread/INFO]: Smart Moving uses communication protocol 2.4
+[17:50:39] [Client thread/INFO]: [api.player.client.ClientPlayerAPI:register:869]: Client Player: registered Smart Render
+[17:50:39] [Client thread/INFO]: Overspawning lammergeiers...
+[17:50:39] [Client thread/INFO]: Injecting itemstacks
+[17:50:39] [Client thread/INFO]: Itemstack injection complete
+[17:50:40] [Client thread/ERROR]: Couldn't locate icons for Default: C:\Users\Vorhun\AppData\Roaming\.minecraft\versions\ÂÎÐ×ÓÍ%20ÌÈÐ\mods\journeymap-1.12.2-5.7.1.jar\assets\journeymap\icon\entity
+[17:50:40] [Client thread/INFO]: Added entity icons from journeymap:icon/entity. Success: false
+[17:50:40] [Client thread/ERROR]: Couldn't locate icons for flat: C:\Users\Vorhun\AppData\Roaming\.minecraft\versions\ÂÎÐ×ÓÍ%20ÌÈÐ\mods\journeymap-1.12.2-5.7.1.jar\assets\journeymap\theme\flat
+[17:50:40] [Client thread/INFO]: Preloaded theme textures: 0
+[17:50:40] [Client thread/INFO]: Registered 124 recipes
+[17:50:40] [JM-VersionCheck-1/ERROR]: Could not check version URL
+javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1949) ~[?:1.8.0_51]
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:302) ~[?:1.8.0_51]
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:296) ~[?:1.8.0_51]
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1497) ~[?:1.8.0_51]
+	at sun.security.ssl.ClientHandshaker.processMessage(ClientHandshaker.java:212) ~[?:1.8.0_51]
+	at sun.security.ssl.Handshaker.processLoop(Handshaker.java:979) ~[?:1.8.0_51]
+	at sun.security.ssl.Handshaker.process_record(Handshaker.java:914) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1062) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1375) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1403) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1387) ~[?:1.8.0_51]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:275) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:254) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.conn.HttpClientConnectionOperator.connect(HttpClientConnectionOperator.java:117) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:314) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:363) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:219) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:186) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57) ~[httpclient-4.3.3.jar:4.3.3]
+	at journeymap.common.version.VersionCheck$1.run(VersionCheck.java:131) [VersionCheck$1.class:1.12.2-5.7.1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_51]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_51]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:387) ~[?:1.8.0_51]
+	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:292) ~[?:1.8.0_51]
+	at sun.security.validator.Validator.validate(Validator.java:260) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:324) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:229) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124) ~[?:1.8.0_51]
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479) ~[?:1.8.0_51]
+	... 26 more
+Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.provider.certpath.SunCertPathBuilder.build(SunCertPathBuilder.java:145) ~[?:1.8.0_51]
+	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(SunCertPathBuilder.java:131) ~[?:1.8.0_51]
+	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:280) ~[?:1.8.0_51]
+	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:382) ~[?:1.8.0_51]
+	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:292) ~[?:1.8.0_51]
+	at sun.security.validator.Validator.validate(Validator.java:260) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:324) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:229) ~[?:1.8.0_51]
+	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124) ~[?:1.8.0_51]
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479) ~[?:1.8.0_51]
+	... 26 more
+[17:50:40] [Client thread/INFO]: Crazy bird creation complete.
+[17:50:40] [Client thread/INFO]: Starting JEI...
+[17:50:40] [Client thread/ERROR]: Found empty subBlock of Block{cfm:curtains_open}
+[17:50:40] [Client thread/ERROR]: Found empty subBlock of Block{cfm:curtains_open}
+[17:50:40] [Client thread/ERROR]: Found empty subBlock of Block{cfm:curtains_open}
+[17:50:40] [Client thread/ERROR]: Found empty subBlock of Block{cfm:curtains_open}
+[17:50:40] [Client thread/ERROR]: Found empty subBlock of Block{cfm:curtains_open}
+[17:50:40] [Client thread/ERROR]: Found empty subBlock of Block{cfm:curtains_open}
+[17:50:40] [Client thread/ERROR]: Found empty subBlock of Block{cfm:curtains_open}
+[17:50:40] [Client thread/ERROR]: Found empty subBlock of Block{cfm:curtains_open}
+[17:50:40] [Client thread/ERROR]: Found empty subBlock of Block{cfm:curtains_open}
+[17:50:40] [Client thread/ERROR]: Found empty subBlock of Block{cfm:curtains_open}
+[17:50:40] [Client thread/ERROR]: Found empty subBlock of Block{cfm:curtains_open}
+[17:50:40] [Client thread/ERROR]: Found empty subBlock of Block{cfm:curtains_open}
+[17:50:40] [Client thread/ERROR]: Found empty subBlock of Block{cfm:curtains_open}
+[17:50:40] [Client thread/ERROR]: Found empty subBlock of Block{cfm:curtains_open}
+[17:50:40] [Client thread/ERROR]: Found empty subBlock of Block{cfm:curtains_open}
+[17:50:40] [Client thread/ERROR]: Found empty subBlock of Block{cfm:curtains_open}
+[17:50:40] [Client thread/INFO]: Registering recipe categories...
+[17:50:40] [Client thread/INFO]: Registering recipe categories took 27.75 ms
+[17:50:40] [Client thread/INFO]: Registering mod plugins...
+[17:50:41] [Client thread/INFO]: Registering mod plugins took 377.8 ms
+[17:50:41] [Client thread/INFO]: Building recipe registry...
+[17:50:41] [Client thread/INFO]: Building recipe registry took 117.5 ms
+[17:50:41] [Client thread/INFO]: Building ingredient list...
+[17:50:41] [Client thread/INFO]: Building ingredient list took 57.19 ms
+[17:50:41] [Client thread/INFO]: Building ingredient filter...
+[17:50:41] [Client thread/INFO]: Building ingredient filter took 309.0 ms
+[17:50:41] [Client thread/INFO]: Building bookmarks...
+[17:50:41] [Client thread/INFO]: Building bookmarks took 20.18 ms
+[17:50:41] [Client thread/INFO]: Building runtime...
+[17:50:41] [Client thread/INFO]: Building runtime took 98.98 ms
+[17:50:41] [Client thread/INFO]: Optimizing memory usage...
+[17:50:41] [Client thread/INFO]: Optimizing memory usage took 101.4 ms
+[17:50:41] [Client thread/INFO]: Starting JEI took 1.431 s
+[17:50:42] [Client thread/INFO]: Forge Mod Loader has successfully loaded 35 mods
+[17:50:42] [Client thread/WARN]: Skipping bad option: lastServer:
+[17:50:42] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[17:50:42] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[17:50:42] [Client thread/INFO]: [OptiFine] *** Reloading custom textures ***
+[17:50:43] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[17:50:43] [Client thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/blaze.jem
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/blaze_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/blaze_body.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/blaze_layer1.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/blaze_layer2.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/blaze_layer3.jpm
+[17:50:43] [Client thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/cave_spider.jem
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/cave_spider_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/cave_spider_middle.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/cave_spider_body.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/cave_spider_leg_lf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/cave_spider_leg_rf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/cave_spider_leg_lfm.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/cave_spider_leg_rfm.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/cave_spider_leg_lbm.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/cave_spider_leg_rbm.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/cave_spider_leg_lb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/cave_spider_leg_rb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/cave_spider_legs_left.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/cave_spider_legs_right.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/cave_spider_legs_left.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/cave_spider_legs_right.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/cave_spider_legs_left.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/cave_spider_legs_right.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/cave_spider_legs_left.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/cave_spider_legs_right.jpm
+[17:50:43] [Client thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/chicken.jem
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/chicken_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/chicken_baby_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/chicken_body.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/chicken_right_wing.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/chicken_left_wing.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/chicken_right_leg.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/chicken_left_leg.jpm
+[17:50:43] [Client thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/cow.jem
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/cow_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/cow_baby_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/cow_body.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/cow_leg_lb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/cow_leg_rb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/cow_leg_lf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/cow_leg_rf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/cow_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: leg1_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/cow_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: leg2_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/cow_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: leg3_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/cow_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: leg4_part
+[17:50:43] [Client thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/creeper.jem
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/creeper_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/creeper_body.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/creeper_leg_lb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/creeper_leg_rb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/creeper_leg_lf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/creeper_leg_rf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/creeper_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: leg1_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/creeper_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: leg2_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/creeper_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: leg3_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/creeper_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: leg4_part
+[17:50:43] [Client thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/donkey.jem
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/donkey_neck.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/donkey_body.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/donkey_leg_lb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/donkey_leg_rb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/donkey_leg_lf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/donkey_leg_rf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/donkey_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: back_left_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/donkey_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: back_right_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/donkey_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: front_left_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/donkey_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: front_right_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/donkey_tail.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/donkey_baby_leg_lb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/donkey_baby_leg_rb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/donkey_baby_leg_lf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/donkey_baby_leg_rf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/donkey_baby_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: child_back_left_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/donkey_baby_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: child_back_right_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/donkey_baby_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: child_front_left_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/donkey_baby_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: child_front_right_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/donkey_saddle.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/donkey_left_saddle.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/donkey_right_saddle.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/donkey_headpiece_neck.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/donkey_left_chest.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/donkey_right_chest.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Error parsing expression: tail.rx -body.rx -torad(10) +if(limb_speed>=if(is_child, 0.4, 0.6), sin(torad(90)+limb_swing*0.75/if(is_ridden, 1.8, 1)/if(is_child, 2.5, 1))/6*limb_speed, sin(torad(90)+limb_swing*0.8*2)/6*limb_speed) +cos(age/if(is_child, 35, 70)*pi*2)/30
+[17:50:43] [Client thread/WARN]: [OptiFine] net.optifine.expr.ParseException: Model variable not found: tail.rx
+[17:50:43] [Client thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/enderman.jem
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/enderman_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/enderman_body.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/enderman_left_arm.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/enderman_right_arm.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/enderman_left_leg.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/enderman_right_leg.jpm
+[17:50:43] [Client thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/guardian.jem
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/guardian_body.jpm
+[17:50:43] [Client thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/horse.jem
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/horse_neck.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/horse_body.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/horse_leg_lb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/horse_leg_rb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/horse_leg_lf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/horse_leg_rf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/horse_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: back_left_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/horse_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: back_right_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/horse_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: front_left_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/horse_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: front_right_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/horse_tail.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/horse_baby_leg_lb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/horse_baby_leg_rb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/horse_baby_leg_lf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/horse_baby_leg_rf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/horse_baby_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: child_back_left_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/horse_baby_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: child_back_right_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/horse_baby_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: child_front_left_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/horse_baby_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: child_front_right_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/horse_saddle.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/horse_left_saddle.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/horse_right_saddle.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/horse_headpiece_neck.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Error parsing expression: tail.rx -body.rx -torad(10) +if(limb_speed>=0.6, sin(torad(90)+limb_swing*0.75/if(is_ridden, 1.8, 1)/if(is_child, 2.5, 1))/6*limb_speed, sin(torad(90)+limb_swing*0.55*2)/2*limb_speed) +cos(age/if(is_child, 35, 70)*pi*2)/30
+[17:50:43] [Client thread/WARN]: [OptiFine] net.optifine.expr.ParseException: Model variable not found: tail.rx
+[17:50:43] [Client thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/husk.jem
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/husk_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/husk_baby_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/husk_body.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/husk_left_arm.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/husk_right_arm.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/husk_left_leg.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/husk_right_leg.jpm
+[17:50:43] [Client thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/iron_golem.jem
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/iron_golem_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/iron_golem_body.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/iron_golem_waist.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/iron_golem_left_arm.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/iron_golem_right_arm.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/iron_golem_left_leg.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/iron_golem_right_leg.jpm
+[17:50:43] [Client thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/llama.jem
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/llama_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/llama_body.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/llama_leg_lb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/llama_leg_rb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/llama_leg_lf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/llama_leg_rf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/llama_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: leg1_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/llama_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: leg2_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/llama_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: leg3_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/llama_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: leg4_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/llama_left_chest.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/llama_right_chest.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Model part not found: chest_left, model: net.minecraft.client.model.ModelLlama@4a7eb983
+[17:50:43] [Client thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/mooshroom.jem
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mooshroom_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mooshroom_baby_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mooshroom_body.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mooshroom_leg_lb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mooshroom_leg_rb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mooshroom_leg_lf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mooshroom_leg_rf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mooshroom_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: leg1_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mooshroom_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: leg2_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mooshroom_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: leg3_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mooshroom_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: leg4_part
+[17:50:43] [Client thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/mule.jem
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mule_neck.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mule_body.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mule_leg_lb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mule_leg_rb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mule_leg_lf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mule_leg_rf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mule_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: back_left_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mule_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: back_right_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mule_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: front_left_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mule_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: front_right_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mule_tail.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mule_baby_leg_lb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mule_baby_leg_rb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mule_baby_leg_lf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mule_baby_leg_rf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mule_baby_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: child_back_left_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mule_baby_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: child_back_right_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mule_baby_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: child_front_left_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mule_baby_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: child_front_right_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mule_saddle.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mule_left_saddle.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mule_right_saddle.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mule_headpiece_neck.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mule_left_chest.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/mule_right_chest.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Error parsing expression: tail.rx -body.rx -torad(10) +if(limb_speed>=if(is_child, 0.4, 0.6), sin(torad(90)+limb_swing*0.75/if(is_ridden, 1.8, 1)/if(is_child, 2.5, 1))/6*limb_speed, sin(torad(90)+limb_swing*0.8*2)/6*limb_speed) +cos(age/if(is_child, 35, 70)*pi*2)/30
+[17:50:43] [Client thread/WARN]: [OptiFine] net.optifine.expr.ParseException: Model variable not found: tail.rx
+[17:50:43] [Client thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/ocelot.jem
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/ocelot_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/ocelot_baby_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/ocelot_body.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/ocelot_leg_lb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/ocelot_leg_rb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/ocelot_leg_lf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/ocelot_leg_rf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/ocelot_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: back_left_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/ocelot_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: back_right_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/ocelot_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: front_left_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/ocelot_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: front_right_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/ocelot_tail.jpm
+[17:50:43] [Client thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/parrot.jem
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/parrot_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/parrot_body.jpm
+[17:50:43] [Client thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/pig.jem
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/pig_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/pig_baby_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/pig_body.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/pig_leg_lb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/pig_leg_rb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/pig_leg_lf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/pig_leg_rf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/pig_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: leg1_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/pig_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: leg2_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/pig_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: leg3_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/pig_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: leg4_part
+[17:50:43] [Client thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/sheep.jem
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/sheep_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/sheep_baby_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/sheep_body.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/sheep_leg_lb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/sheep_leg_rb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/sheep_leg_lf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/sheep_leg_rf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/sheep_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: leg1_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/sheep_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: leg2_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/sheep_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: leg3_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/sheep_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: leg4_part
+[17:50:43] [Client thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/silverfish.jem
+[17:50:43] [Client thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/skeleton.jem
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/skeleton_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/skeleton_body.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/skeleton_left_arm.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/skeleton_right_arm.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/skeleton_left_leg.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/skeleton_right_leg.jpm
+[17:50:43] [Client thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/skeleton_horse.jem
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/skeleton_horse_neck.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/skeleton_horse_body.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/skeleton_horse_leg_lb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/skeleton_horse_leg_rb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/skeleton_horse_leg_lf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/skeleton_horse_leg_rf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/skeleton_horse_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: back_left_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/skeleton_horse_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: back_right_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/skeleton_horse_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: front_left_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/skeleton_horse_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: front_right_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/skeleton_horse_tail.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/skeleton_horse_baby_leg_lb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/skeleton_horse_baby_leg_rb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/skeleton_horse_baby_leg_lf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/skeleton_horse_baby_leg_rf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/skeleton_horse_baby_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: child_back_left_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/skeleton_horse_baby_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: child_back_right_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/skeleton_horse_baby_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: child_front_left_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/skeleton_horse_baby_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: child_front_right_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/skeleton_horse_saddle.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/skeleton_horse_left_saddle.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/skeleton_horse_right_saddle.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/skeleton_horse_headpiece_neck.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Error parsing expression: tail.rx -body.rx -torad(10) +if(limb_speed>=0.6, sin(torad(90)+limb_swing*0.75/if(is_ridden, 1.8, 1)/if(is_child, 2.5, 1))/6*limb_speed, sin(torad(90)+limb_swing*0.55*2)/2*limb_speed) +cos(age/if(is_child, 35, 70)*pi*2)/30
+[17:50:43] [Client thread/WARN]: [OptiFine] net.optifine.expr.ParseException: Model variable not found: tail.rx
+[17:50:43] [Client thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/spider.jem
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/spider_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/spider_middle.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/spider_body.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/spider_leg_lf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/spider_leg_rf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/spider_leg_lfm.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/spider_leg_rfm.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/spider_leg_lbm.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/spider_leg_rbm.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/spider_leg_lb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/spider_leg_rb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/spider_legs_left.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/spider_legs_right.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/spider_legs_left.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/spider_legs_right.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/spider_legs_left.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/spider_legs_right.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/spider_legs_left.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/spider_legs_right.jpm
+[17:50:43] [Client thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/stray.jem
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/stray_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/stray_body.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/stray_left_arm.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/stray_right_arm.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/stray_left_leg.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/stray_right_leg.jpm
+[17:50:43] [Client thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/vex.jem
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/vex_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/vex_body.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/vex_body2.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/vex_right_arm.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/vex_left_arm.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/vex_right_wing.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/vex_left_wing.jpm
+[17:50:43] [Client thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/villager.jem
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/villager_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/villager_baby_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/villager_body.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/villager_arms.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/villager_right_leg.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/villager_left_leg.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Model part not found: headwear, model: net.minecraft.client.model.ModelVillager@29109ff5
+[17:50:43] [Client thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/witch.jem
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/witch_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/witch_body.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/witch_arms.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/witch_right_leg.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/witch_left_leg.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/witch_hat.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Model part not found: headwear, model: net.minecraft.client.model.ModelWitch@4869123a
+[17:50:43] [Client thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/wither_skeleton.jem
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/wither_skeleton_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/wither_skeleton_body.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/wither_skeleton_left_arm.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/wither_skeleton_right_arm.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/wither_skeleton_left_leg.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/wither_skeleton_right_leg.jpm
+[17:50:43] [Client thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/wolf.jem
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/wolf_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/wolf_baby_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/wolf_body.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/wolf_leg_lb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/wolf_leg_rb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/wolf_leg_lf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/wolf_leg_rf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/wolf_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: leg1_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/wolf_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: leg2_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/wolf_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: leg3_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/wolf_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: leg4_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/wolf_tail.jpm
+[17:50:43] [Client thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/zombie.jem
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_baby_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_body.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_left_arm.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_right_arm.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_left_leg.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_right_leg.jpm
+[17:50:43] [Client thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/zombie_horse.jem
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_horse_neck.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_horse_body.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_horse_leg_lb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_horse_leg_rb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_horse_leg_lf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_horse_leg_rf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_horse_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: back_left_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_horse_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: back_right_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_horse_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: front_left_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_horse_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: front_right_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_horse_tail.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_horse_baby_leg_lb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_horse_baby_leg_rb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_horse_baby_leg_lf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_horse_baby_leg_rf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_horse_baby_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: child_back_left_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_horse_baby_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: child_back_right_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_horse_baby_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: child_front_left_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_horse_baby_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: child_front_right_leg_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_horse_saddle.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_horse_left_saddle.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_horse_right_saddle.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_horse_headpiece_neck.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Error parsing expression: tail.rx -body.rx -torad(10) +if(limb_speed>=0.6, sin(torad(90)+limb_swing*0.75/if(is_ridden, 1.8, 1)/if(is_child, 2.5, 1))/6*limb_speed, sin(torad(90)+limb_swing*0.55*2)/2*limb_speed) +cos(age/if(is_child, 35, 70)*pi*2)/30
+[17:50:43] [Client thread/WARN]: [OptiFine] net.optifine.expr.ParseException: Model variable not found: tail.rx
+[17:50:43] [Client thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/zombie_villager.jem
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_villager_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_villager_baby_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_villager_body.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_villager_left_arm.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_villager_right_arm.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_villager_left_leg.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/zombie_villager_right_leg.jpm
+[17:50:43] [Client thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/sheep_wool.jem
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/sheep_wool_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/sheep_wool_baby_head.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/sheep_wool_body.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/sheep_wool_leg_lb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/sheep_wool_leg_rb.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/sheep_wool_leg_lf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/sheep_wool_leg_rf.jpm
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/sheep_wool_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: leg1_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/sheep_wool_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: leg2_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/sheep_wool_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: leg3_part
+[17:50:43] [Client thread/ERROR]: [OptiFine] java.io.FileNotFoundException: minecraft:optifine/cem/sheep_wool_legs.jpm
+[17:50:43] [Client thread/WARN]: [OptiFine] Duplicate model ID: leg4_part
+[17:50:43] [Client thread/INFO]: [OptiFine] [Shaders] Parsing block mappings: dynamictrees:shaders/block.properties
+[17:50:43] [Client thread/WARN]: [OptiFine] Shaders: Block not found for name: dynamictrees:leaves_snow
+[17:51:30] [Client thread/INFO]: Stopping!
+[17:51:30] [Client thread/INFO]: SoundSystem shutting down...
+[17:51:30] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
